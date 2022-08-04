@@ -1,0 +1,4 @@
+\begin[papersize=a7]{document}
+    \script[src=packages/math]
+    \math{x}\cr\math{y}
+\end{document}
